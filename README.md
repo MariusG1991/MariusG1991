@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MariusG1991
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT
 - 📫 How to reach me mguzik99@gmail.com
 
 <!---
