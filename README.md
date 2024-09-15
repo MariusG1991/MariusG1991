@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT
 - 📫 How to reach me:
 - mguzik99@gmail.com
-- https://twitter.com/devMariuss
+- https://x.com/mariusUI
 
 <!---
 MariusG1991/MariusG1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
