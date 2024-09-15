@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariusG1991
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT
+- 🌱 I’m currently learning UX/UI design
 - 📫 How to reach me:
 - mguzik99@gmail.com
 - https://x.com/mariusUI
